@@ -1,5 +1,5 @@
 # Bolotnikova Evgenia
-![photo](E:\photo\avatar)
+![photo](blob:https://web.telegram.org/bcfa0ae4-6ab3-4859-b24a-3a6cb8c97fca)
 
 ## Contacts
 - **Location:** Belarus, Gomel
