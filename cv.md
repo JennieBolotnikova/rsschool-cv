@@ -1,4 +1,5 @@
 # Bolotnikova Evgenia
+![photo](E:\photo\avatar)
 
 ## Contacts
 - **Location:** Belarus, Gomel
@@ -7,8 +8,6 @@
 - **Telegram:** @eeververse
 - **Discord:** jenya2531
 
-## About Me
-
 ## Skills
 - JS:
 - CSS/SASS/LESS
@@ -16,8 +15,6 @@
 - Git
 - Figma
 - DB
-
-## Code Example
 
 ## Experience
 EPAM front-end traineeship
